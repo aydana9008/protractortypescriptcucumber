@@ -10,7 +10,7 @@
     "protractor": "./node_modules/protractor/built/cli.js",
     "webdriver-update": "./node_modules/.bin/webdriver-manager update"
   },
-  "author": "rahul",
+  "author": "ms",
   "license": "ISC",
   "dependencies": {
     "protractor": "^5.4.2",
